@@ -1,6 +1,6 @@
 <?php
 $server_username = "epiz_27317056";  // Khai báo username
-$server_password = "vPanel"; // Khai báo password
+$server_password = "Tinhyeu100%"; // Khai báo password
 $server_host = "sql207.epizy.com"; // Khai báo server
 $database = 'epiz_27317056_huykhang';         // Khai báo database
 // khởi tạo kết nối
